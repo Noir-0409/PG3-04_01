@@ -19,4 +19,5 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 	delete gameManeger;
 
 	return 0;
+
 }
